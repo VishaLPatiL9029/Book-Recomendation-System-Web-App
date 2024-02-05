@@ -2,7 +2,7 @@ from setuptools import setup,find_packages
 from typing import List
 
 #Declaring variables for setup functions
-PROJECT_NAME="book-recommend"
+PROJECT_NAME="book_recommend"
 VERSION="0.0.1"
 AUTHOR="Vishal Patil"
 DESRCIPTION="This is a second FSDS 2.0 Sep batch Internship Project"

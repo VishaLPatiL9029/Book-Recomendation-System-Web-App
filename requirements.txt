@@ -3,7 +3,10 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-flask
+flaskpip
 flask_cors
 gunicorn
 nltk
+pickle
+
+-e .
